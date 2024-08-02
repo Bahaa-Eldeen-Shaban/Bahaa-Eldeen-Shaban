@@ -13,13 +13,13 @@
 ### 🚀 About Me
 
 - 🏢 **Cairo University - Faculty of Engineering - Electrical Engineering Department**
-- 🔭 I'm currently a student at DEPI scholarship , IBM Data Science Track.
-- 🌱 I'm actively expanding my knowledge in AI and Machine Learning through Courses.
-- 🤔 I'm currently seeking to deepen my understanding of advanced machine learning algorithms and their practical applications.
+- 🔭 **I'm currently a student at DEPI scholarship** , IBM Data Science Track.
+- 🌱 **I'm actively expanding my knowledge in AI and Machine Learning through Courses.**
+- 🤔 **I'm currently seeking to deepen my understanding of advanced machine learning algorithms and their practical applications.**
 - 💬 **Ask me about**:
   - My experience with **Python, and SQL**
   - **my journey from Electrical Engineering to Data Science!**
-- ⚡ Fun fact: I'm passionate about football, and I love tea.
+- ⚡ **Fun fact:** I'm passionate about football, and I love tea.
 
 <br/>
 
