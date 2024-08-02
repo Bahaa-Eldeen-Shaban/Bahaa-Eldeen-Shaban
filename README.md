@@ -21,7 +21,7 @@
 <br/>
 
 ### 🔗 Connect with Me 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="[https://www.linkedin.com/in/mumin-ahmad/](https://www.linkedin.com/in/bahaa-eldeen-shaban-drwish-6823b2196?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9t1chcgXRzqkYMUlmo0QGA%3D%3D)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/bahaa-eldeen-shaban-drwish-6823b2196" target="_blank"><img src="https://img.shields.io/badge/BahaaEldin%20Shaban-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 <!-- Add more platforms as needed -->
 
